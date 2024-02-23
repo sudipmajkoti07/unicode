@@ -1,0 +1,35 @@
+/* HackathonPage.css */
+
+.hackathon-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .hackathon-details, .hackathon-schedule, .hackathon-teams {
+    margin-bottom: 30px;
+  }
+  
+  .hackathon-details h2, .hackathon-schedule h2, .hackathon-teams h2 {
+    color: #333;
+  }
+  
+  .hackathon-details p {
+    margin-bottom: 10px;
+  }
+  
+  .hackathon-schedule ul, .hackathon-teams ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .hackathon-schedule li, .hackathon-teams li {
+    margin-bottom: 5px;
+  }
+  
+  .hackathon-schedule li strong, .hackathon-teams li strong {
+    margin-right: 10px;
+    font-weight: bold;
+  }
+  
+  
